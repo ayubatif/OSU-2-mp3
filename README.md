@@ -8,7 +8,7 @@ Python
 
 ## Usage
 ### Windows PC
-Double click getOSUmp3.py 
+In a cmd window, run `python getOSUmp3.py`
 
 ### MacOS / Linux
 In a terminal window, run `python getOSUmp3.py`
